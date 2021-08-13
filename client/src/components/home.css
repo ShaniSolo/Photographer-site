@@ -1,0 +1,44 @@
+.d-block.w-100.first .d-block.w-100.second{
+   
+    padding-right: 20px !important;
+    padding-left: 20px !important;
+    padding-bottom: 20px !important;
+    padding-top: 20px;
+    flex-flow: row nowrap;
+    justify-content: flex-start;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    display: flex!important;
+    flex-basis: auto;
+    padding: 0px !important;
+    
+}
+
+
+.z-depth-1{
+    width: 100%;
+}
+
+
+div.carousel-item{
+    position:relative;
+    right: 50%;
+    height: 200px;
+}
+
+.w-100{
+    height: 91.5vh;
+    width: auto !important;
+    position: absolute;
+    top: 0;
+}
+
+.view{
+    display: flex;
+    justify-content: center;
+}
+
+

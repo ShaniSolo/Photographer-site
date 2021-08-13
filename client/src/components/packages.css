@@ -1,0 +1,38 @@
+
+.link-package{
+    padding-right: 40px;
+    padding-left: 40px;
+    color: #f4c072 !important;
+    font-weight: 500;
+    
+}
+
+.card-body{
+    color:#6E6E6D !important;
+}
+
+.link-package{
+    box-shadow: 0 0px 0px 0 rgb(0 0 0 / 18%), 0 0px 0px 0 rgb(0 0 0 / 15%) !important;
+}
+
+.card{
+    display: inline-block !important;
+    text-align: center;
+    margin: 10px !important;
+    
+}
+
+.btn.btn-secondary.btn-lg.active:hover{
+    background-color: #f4c072 !important;
+    color:white !important;
+}
+
+
+
+.card .card-body .card-text{
+    font-size: 18px;
+}
+
+.card-title{
+    font-size: 25px;
+}

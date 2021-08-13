@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+    font-family: GillSansMTBook;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+    font-family: GillSansMTBook;
+
+}
+
+@font-face {
+  font-family: "GillSansMTBook";
+  src: local("GillSansMTBook"),
+    url("./fonts/Gill_Sans_MT_Book.ttf") format("truetype");
+  font-weight: normal;
+}

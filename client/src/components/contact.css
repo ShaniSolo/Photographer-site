@@ -1,0 +1,100 @@
+
+.row {
+    padding-top: 15%;
+}
+
+.h5.text-center.mb-4{
+    text-align: left !important;
+    padding-top: 28%;
+}
+
+.mdb-selected{
+    background-color: transparent !important;
+    text-decoration-color: #888888;
+}
+
+.mdb-select{
+    background-color: transparent !important;
+    padding: .6rem 0 .4rem 0;
+}
+
+.select-options-98ba1347-8496-483d-9e6d-db4a356941e0{
+    background-color: transparent !important;
+}
+
+select {
+    background-color: transparent !important;
+    border: none;
+    border-bottom: 1px solid #ced4da;
+    border-radius: 0;
+    outline: none;
+    box-shadow: none;
+    transition: border-color 0.15s ease-in-out,box-shadow 0.15s ease-in-out;
+    width: calc(100% - 2.5rem);
+    margin-left: 2.5rem;
+}
+
+
+
+
+.select-options{
+    color:#757575;
+    font-family: GillSansMTBook;
+    -webkit-font-smoothing: antialiased;
+    font-weight: 300;
+    padding: 9.6px 0px 6.4px;
+}
+
+.select-options{
+    position:relative;
+    bottom: 30px;
+}
+.grey-text {
+    color: #6E6E6D !important;
+    text-align: left;
+    padding-top: 10%; 
+    
+}
+
+.grey-text.active{
+    color:#6E6E6D !important;
+}
+
+.error{
+    color:red;
+    text-align: left;
+}
+
+form#login{
+    background: none;  
+} 
+
+form#divMessage{
+    position:relative;
+    left: 160%;
+    bottom: 46%;
+    font-size: 30px;
+    text-align: left;
+    background: none;
+    color:#6E6E6D !important;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif !important;
+    border-left: 4px solid #6E6E6D; 
+    
+}
+
+form#divTable{
+    background: none;
+} 
+
+.textdetails{
+    font-family: GillSansMTBook;
+    font-weight: normal !important;
+    font-size: 25px;
+    
+}
+
+.textdetails.name{
+    font-weight: bold !important;
+    font-size: 35px;
+    
+}

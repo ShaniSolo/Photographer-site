@@ -1,0 +1,65 @@
+{
+  "details": [
+    {
+      "id": 1,
+      "name": "Yael",
+      "email": "yael@gmail.com",
+      "phone_number": "0525555555",
+      "package": "Newborn",
+      "size": "pampering: 10 pictures + digital album",
+      "message": "I'll be happy to tail with you!"
+    },
+    {
+      "id": 2,
+      "name": "Rivki",
+      "email": "r0308000000@gmail.com",
+      "phone_number": "0308000000",
+      "package": "Product",
+      "size": "special: 20 pictures",
+      "message": "On sunday morning"
+    },
+    {
+      "id": 3,
+      "name": "Atara",
+      "email": "atarush@gmail.com",
+      "phone_number": "025555555",
+      "package": "Halake",
+      "size": "pampering: 10 pictures + digital album",
+      "message": "Your pictures are magnificent!!"
+    },
+    {
+      "id": 4,
+      "name": "Shira Heler",
+      "email": "shiraheler@gmail.com",
+      "phone_number": "0545555555",
+      "package": "Newborn",
+      "size": "regular: 10 pictures",
+      "message": "The sweetest baby at all!!"
+    },
+    {
+      "id": 5,
+      "name": "Merav",
+      "email": "merav@gmail.com",
+      "phone_number": "085666666",
+      "package": "Other",
+      "size": "pampering: 10 pictures + digital album",
+      "message": ""
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "",
+      "phone_number": "",
+      "password": "admin"
+    },
+    {
+      "id": 2,
+      "name": "Michal",
+      "email": "michal.photo100@gmail.com",
+      "phone_number": "0501111111",
+      "password": "Michal"
+    }
+  ]
+}

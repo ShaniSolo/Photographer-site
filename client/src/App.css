@@ -1,0 +1,157 @@
+
+.softTry{
+    box-shadow: 0 0 8px 8px white inset;
+}
+
+.sendButton{
+    background-color: transparent !important;
+    color: #f4c072 !important;
+    border: 2px solid #f4c072 !important;
+}
+
+.sendButton:focus {
+    background-color: transparent !important;
+    color: #f4c072 !important;
+    border: 2px solid #f4c072 !important;
+}
+
+
+.sendButton:hover{
+    background-color: #f4c072 !important;
+    color:#fffdfd ;
+    border: 2px solid rgba(255, 255, 255, 0.993); 
+    background-color: transparent !important;
+}
+
+
+
+
+.btn-default {
+    color: #fff;
+}
+
+.btn-default {
+    background-color: transparent !important;
+    
+}
+
+
+.md-form .form-control{
+    margin-bottom: 0px !important; 
+}
+
+
+.div.select-wrapper.mdb-select.height-5{
+    height: 4000.98px;
+}
+
+i.fa.fa-chek.prefix::before{
+    height: 28px;
+}
+
+.btn-default {
+    color: #6E6E6D !important;
+    font-size: 17px !important;
+}
+
+
+form{
+    background-color: rgb(255, 255, 255);
+    
+}
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+
+body{
+    text-align: center;
+    margin-top: 98px;
+}
+
+.textdetails{
+    padding-left: 30px;
+}
+
+.text-center{
+    color:#f4c072 ;
+    padding-top: 5%;
+    font-size: 35px;
+    padding-top: 10%;
+    
+}
+
+.btn.btn-secondary.btn-lg.active{
+    
+    background-color: transparent !important;
+    color: #6E6E6D !important;
+    border: 1px solid #f4c072 !important;
+    font-size: 20px !important;
+    
+    
+}
+
+
+.btn.btn-secondary.btn-lg.active.details-button{
+    
+    margin-top: 30px;
+    position: relative;
+    left: 325px;
+}
+
+.message{
+    color:#6E6E6D !important;
+    font-weight: 500;
+    
+}
+
+.btn-default:visited{
+    background-color:transparent;
+}
+
+.error {
+    color: red;
+    padding-left: 2.5rem !important;
+    margin-top: -1rem !important;
+}
+
+.btn-default:not([disabled]):not(.disabled):active{
+    background-color: #4285f4 !important;
+    box-shadow: 0 5px 11px 0 rgb(0 0 0 / 18%), 0 4px 15px 0 rgb(0 0 0 / 15%);
+}
+
+.btn-default:active{
+    background-color: #f4c072 !important;
+    color: #6E6E6D !important;
+}
+
+.btn-default:not([disabled]):not(.disabled):active {
+    
+    background-color: #f4c072 !important;
+    color: white !important;
+    box-shadow: 0 5px 11px 0 rgb(0 0 0 / 18%), 0 4px 15px 0 rgb(0 0 0 / 15%);
+}
+
+
+.container1 {
+    direction: rtl;
+    text-align: right;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    width: 490px;
+    background-color: rgba(255, 255, 255, 0.623);
+    box-shadow: 0 4px 7px 0 rgba(0, 0, 0, 0.2) !important;
+    border-radius: 5px;
+    padding: 30px;
+    padding-bottom: 10px;
+    padding-top: 20px;
+  }
+  
+  .container1 h4 {
+    text-align: center;
+  }

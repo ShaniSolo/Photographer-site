@@ -1,0 +1,50 @@
+
+.table-title{
+    padding-top: 5%;
+    text-align: left;
+    padding-left: 7%;
+    padding-bottom: 2%;
+}
+
+table th {
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+table td{
+    font-size: 1.3rem;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+td{
+    padding-left: 30px !important;    
+
+}
+
+.tbl{
+    padding-left: 7%;
+    text-align: left;
+}
+
+.btn.btn-secondary.btn-lg.active.details-button{
+    
+    margin-top: 30px !important;
+    position: fixed !important;
+}
+
+.table-wrapper-scroll-y {
+    display: block;
+    max-height: 200px;
+    overflow-y: auto;
+    -ms-overflow-style: -ms-autohiding-scrollbar;
+    margin-right: 350px;
+    position: absolute;
+}
+
+.home-button{
+    position: fixed !important;
+    bottom: 3%;
+}
+
+

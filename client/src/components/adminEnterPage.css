@@ -1,0 +1,13 @@
+.adminOptions{
+    padding-top: 10%;
+    text-align: left;
+    position: fixed;
+    left: 20%
+
+    
+}   
+
+.btn.btn-secondary.btn-lg.active{
+    margin-bottom: 30px !important;
+    text-align: left;
+}
